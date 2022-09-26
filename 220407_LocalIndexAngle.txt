@@ -1,5 +1,8 @@
 
 
+//by Andreas Vollrath
+Adugna Mullissa
+and Johannes Reiche
 
 //https://www.mdpi.com/2072-4292/12/11/1867
 //https://gis.stackexchange.com/questions/352602/getting-local-incidence-angle-from-sentinel-1-grd-image-collection-in-google-ear
